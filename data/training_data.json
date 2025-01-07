@@ -1,0 +1,10 @@
+[
+    {
+        "instruction": "What is the red Pikmin's name?",
+        "output": "Jeff"
+    },
+    {
+        "instruction": "What is the best Pikmin?",
+        "output": "The red pikmin."
+    }
+]

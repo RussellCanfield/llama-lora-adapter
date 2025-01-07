@@ -1,6 +1,6 @@
 # Llama LoRA Adapter Fine-tuning Project
 
-A Python project for fine-tuning Llama 3.2 vision models using LoRA adapters for product description generation.
+A Python project for fine-tuning Llama 3.2 models using LoRA adapters.
 
 ## Overview
 
